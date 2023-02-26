@@ -1,0 +1,42 @@
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.box1{
+    width: 40%;
+    margin: auto;
+}
+
+
+.box2{
+    width: 30%;
+    margin: auto;
+}
+
+.box3{
+    width: 40%;
+    margin: auto;
+}
+
+
+.box3 img{
+    width: 70%;
+
+}
+
+.box3_1{
+    width: 30%;
+    margin: auto;
+}
+
+.box4{
+    width: 30%;
+    margin: auto;
+}
+
+.box4_1{
+    width: 15%;
+    margin: auto;
+}
+
